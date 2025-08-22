@@ -1,0 +1,5 @@
+body.light { background-color: #fff; color: #000; }
+body.dark { background-color: #222; color: #fff; }
+
+h1 { text-align: center; }
+.file-item { padding: 5px; border-bottom: 1px solid #ccc; }
